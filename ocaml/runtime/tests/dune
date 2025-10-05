@@ -1,0 +1,4 @@
+(test
+ (name runtime_tests)
+ (modules runtime_tests)
+ (libraries bigarray vere_runtime))

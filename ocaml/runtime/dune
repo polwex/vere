@@ -1,0 +1,4 @@
+(library
+ (name vere_runtime)
+ (modules noun allocate)
+ (libraries bigarray))
